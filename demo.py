@@ -1,3 +1,3 @@
-print("hello\n start")
-for i in ragne(7):
-    print(i,"\n")
+print("hello\nstart")
+for i in range(7):
+    print(i)
